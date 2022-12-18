@@ -1,7 +1,7 @@
 MIME-Version: 1.0
 Content-Type: multipart/related; boundary="----=_NextPart_01D91306.ED1E0780"
 
-Ce document est une page web à fichier unique, également appelée fichier d’archive web. Si vous lisez ce message, cela signifie que votre navigateur ou éditeur ne prend pas en charge les fichiers de ce type. Veuillez télécharger un navigateur compatible.
+Ce document est une page web Ã  fichier unique, Ã©galement appelÃ©e fichier dâ€™archive web. Si vous lisez ce message, cela signifie que votre navigateur ou Ã©diteur ne prend pas en charge les fichiers de ce type. Veuillez tÃ©lÃ©charger un navigateur compatible.
 
 ------=_NextPart_01D91306.ED1E0780
 Content-Location: file:///C:/19164090/TOOLMinimap.htm
